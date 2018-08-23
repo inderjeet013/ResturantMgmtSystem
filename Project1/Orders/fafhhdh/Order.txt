@@ -1,0 +1,35 @@
+Name :  faf
+Last Name :  hhdh
+Address : sfsfs
+Locality :  sss
+Contact No :  2323322
+Email Id :  u@example.com
+
+
+
+Your Selected Items are :
+
+
+
+
+
+
+
+Fish curry	1 * 150 = 150
+
+
+
+Cake	2 * 400 = 800
+Burger	1 * 70 = 70
+
+
+
+
+
+
+*******************************************************
+
+
+
+
+Your Total amount : 0

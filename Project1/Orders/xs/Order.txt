@@ -1,0 +1,32 @@
+Name :  x
+Last Name :  s
+Address : s
+Locality :  s
+Contact No :  s
+Email Id :  skcbu@gmail.com
+
+
+
+Your Selected Items are :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*******************************************************
+
+
+
+
+Your Total amount : 0
